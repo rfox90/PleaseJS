@@ -5,6 +5,8 @@ www.checkman.io/please
 Please.js is a polite companion that wants to help you make your projects beautiful. It uses HSV color space to create random pleasing colors as well as color schemes based on a given color.
 It has two core functions and a bunch of little helpers for you to use.
 
+Packaged for Meteor, for both client and server side
+
 
 ```js
 Please.make_color();
